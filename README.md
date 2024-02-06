@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunil Simar</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" > 
 
-<!--
-**sunilsimar/sunilsimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Advance Node.js**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Full Stack Development **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **sunilsimardev@gmail.com**
+
+- ⚡ Fun fact **Development is easy**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sunilsimar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilsimar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sunil_simar__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunil_simar__" height="30" width="40" /></a>
+
+
