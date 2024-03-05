@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **sunilsimardev@gmail.com**
+- 📫 How to reach me **s_simar@mt.iitr.ac.in**
 
 - ⚡ Fun fact **Development is easy**
 
